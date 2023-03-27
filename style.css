@@ -1,0 +1,92 @@
+.image-container {
+    position: relative;
+  }
+
+.title h2 {
+    text-align: center;
+    font-size: 50px;
+  }
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: rgba(129, 173, 245, 0.584); 
+}
+header {
+    background-color: #cde5fd;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    margin: 0;
+    font-size: 36px;
+    font-weight: bold;
+}
+.content {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 0 20px;
+}
+section {
+    margin-bottom: 40px;
+}
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+p {
+    line-height: 2;
+}
+blockquote {
+    font-style: italic;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border-left: 3px solid #ccc;
+    margin: 0;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: #fbfbf7;
+    color: #fff;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+nav li {
+    margin: 0 10px;
+}
+.nav {
+    background-color: white; /* 背景颜色为白色 */
+    text-align: center;
+  }
+  
+  .nav .item {
+    background-color: inherit; /* 继承.nav类的背景颜色 */
+  }
+
+  img{
+    display: block;
+    margin: 0 auto;
+    width: 60%!;(MISSING)
+    height: 60%!;(MISSING)
+}
+span {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
